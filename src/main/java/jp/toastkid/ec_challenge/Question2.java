@@ -1,4 +1,4 @@
-package toastkidjp.ec_challenge;
+package jp.toastkid.ec_challenge;
 
 import java.util.Arrays;
 import java.util.List;

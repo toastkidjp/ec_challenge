@@ -1,4 +1,4 @@
-package toastkidjp.ec_challenge;
+package jp.toastkid.ec_challenge;
 
 import java.io.IOException;
 import java.util.HashMap;
